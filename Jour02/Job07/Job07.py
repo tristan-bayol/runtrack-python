@@ -1,0 +1,1 @@
+chaine = "abcdefghijklmnopqrstuvwxyz" * 10
